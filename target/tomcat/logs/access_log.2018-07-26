@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Jul/2018:19:10:41 -0700] "GET / HTTP/1.1" 200 332 http-bio-8080-exec-1 98
+0:0:0:0:0:0:0:1 - - [26/Jul/2018:19:10:48 -0700] "POST /login.do HTTP/1.1" 200 209 http-bio-8080-exec-3 30
+0:0:0:0:0:0:0:1 - - [26/Jul/2018:19:10:49 -0700] "GET /todo-list HTTP/1.1" 200 653 http-bio-8080-exec-4 21
+0:0:0:0:0:0:0:1 - - [26/Jul/2018:19:10:50 -0700] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-6 15
+0:0:0:0:0:0:0:1 - - [26/Jul/2018:19:10:50 -0700] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-5 21
